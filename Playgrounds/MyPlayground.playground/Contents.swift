@@ -1,7 +1,7 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
-
+/*
 var str = "Hello, playground!"
 
 str = "Goodbye"
@@ -66,6 +66,37 @@ var newDictName = newDict["name"]
 var newDictAge = newDict["age"]
 
 var newSent = "My name is \(newDictName!) and I'm \(newDictAge!) years old"
+
+
+var myName = "JD"
+
+var time = 15
+
+if myName == "JD" && time < 12 {
+    println("Good Morning JD")
+}else if myName == "JD" && time > 12 {
+    println("Good Afternoon JD")
+}else{
+    println("Who are you?")
+}
+
+if myName == "John" || time < 20{
+    println("One of the statements is true!")
+}
+
+var remainder = 11 % 3
+
+var oddEven = 13
+
+if (oddEven % 2 == 0) {
+    println("The number \(oddEven) is an even number")
+}else {
+    println("The number \(oddEven) is an odd number")
+}
+*/
+
+
+var randomNumber = arc4random_uniform(10)
 
 
 
