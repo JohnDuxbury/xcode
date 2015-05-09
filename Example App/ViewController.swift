@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     @IBAction func jdButtonPress(sender: AnyObject) {
         
-        jdLabel.text="It worked!"        
+        jdLabel.text="It worked!"
         
     }
 
