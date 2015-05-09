@@ -7,7 +7,7 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>610CD6D9-FA50-4F30-9686-12A6F1883E5A</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Cat Years</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>902BEFF0CCBAFADE0B8B2DCE61ACB90171CA1E30</key>
@@ -16,7 +16,7 @@
 		<string>http://104.47.145.149/jadux/devops.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Cat Years/Cat Years.xcodeproj/project.xcworkspace</string>
+	<string>Cat Years/Cat Years.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>902BEFF0CCBAFADE0B8B2DCE61ACB90171CA1E30</key>
