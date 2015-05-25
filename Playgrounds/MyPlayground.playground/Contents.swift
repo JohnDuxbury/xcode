@@ -96,7 +96,36 @@ if (oddEven % 2 == 0) {
 */
 
 
-var randomNumber = arc4random_uniform(10)
+// var randomNumber = arc4random_uniform(10)
+
+
+/*for var i = 3; i < 10; i = i+2
+{
+    println(i)
+}*/
+
+//is the number prime?
+var number = 40
+
+var isPrime = true
+
+if number == 1
+{
+    isPrime = false
+}
+
+if number != 2 && number != 1
+{
+
+    for  var i = 2; i < number; i++
+    {
+        if number % i == 0
+        {
+            isPrime = false
+        }
+    }
+}
+println(isPrime)
 
 
 
