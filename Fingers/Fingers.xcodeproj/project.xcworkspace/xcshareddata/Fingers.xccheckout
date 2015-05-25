@@ -7,7 +7,7 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>29FED563-198A-4D68-83C8-FE17F5F1FEA8</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Fingers</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>902BEFF0CCBAFADE0B8B2DCE61ACB90171CA1E30</key>
@@ -16,7 +16,7 @@
 		<string>http://104.47.145.149/jadux/devops.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Fingers/Fingers.xcodeproj/project.xcworkspace</string>
+	<string>Fingers/Fingers.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>902BEFF0CCBAFADE0B8B2DCE61ACB90171CA1E30</key>
